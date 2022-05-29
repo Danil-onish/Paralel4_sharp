@@ -1,0 +1,15 @@
+C:\Users\Denel32\source\repos\Paralel_4\Paralel_4\bin\Debug\net6.0\Paralel_4.exe
+C:\Users\Denel32\source\repos\Paralel_4\Paralel_4\bin\Debug\net6.0\Paralel_4.deps.json
+C:\Users\Denel32\source\repos\Paralel_4\Paralel_4\bin\Debug\net6.0\Paralel_4.runtimeconfig.json
+C:\Users\Denel32\source\repos\Paralel_4\Paralel_4\bin\Debug\net6.0\Paralel_4.dll
+C:\Users\Denel32\source\repos\Paralel_4\Paralel_4\bin\Debug\net6.0\ref\Paralel_4.dll
+C:\Users\Denel32\source\repos\Paralel_4\Paralel_4\bin\Debug\net6.0\Paralel_4.pdb
+C:\Users\Denel32\source\repos\Paralel_4\Paralel_4\obj\Debug\net6.0\Paralel_4.csproj.AssemblyReference.cache
+C:\Users\Denel32\source\repos\Paralel_4\Paralel_4\obj\Debug\net6.0\Paralel_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denel32\source\repos\Paralel_4\Paralel_4\obj\Debug\net6.0\Paralel_4.AssemblyInfoInputs.cache
+C:\Users\Denel32\source\repos\Paralel_4\Paralel_4\obj\Debug\net6.0\Paralel_4.AssemblyInfo.cs
+C:\Users\Denel32\source\repos\Paralel_4\Paralel_4\obj\Debug\net6.0\Paralel_4.csproj.CoreCompileInputs.cache
+C:\Users\Denel32\source\repos\Paralel_4\Paralel_4\obj\Debug\net6.0\Paralel_4.dll
+C:\Users\Denel32\source\repos\Paralel_4\Paralel_4\obj\Debug\net6.0\ref\Paralel_4.dll
+C:\Users\Denel32\source\repos\Paralel_4\Paralel_4\obj\Debug\net6.0\Paralel_4.pdb
+C:\Users\Denel32\source\repos\Paralel_4\Paralel_4\obj\Debug\net6.0\Paralel_4.genruntimeconfig.cache
